@@ -4,12 +4,21 @@ This is a Python project that does...
 
 ## Getting Started
 
+python3 -m venv venv
+source venv/bin/activate
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+
+
+
 Follow these steps to get started:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/GodBishesh/Ghost.git
    cd Ghost
+python Bishesh.py
 
 ## Troubleshooting
 
